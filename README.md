@@ -1,4 +1,4 @@
-Digital Visiting Card | React.js, CSS, Vite
+## Digital Visiting Card | React.js, CSS, Vite
 
 • Developed a responsive digital visiting card showcasing professional profile, contact details, portfolio, and social links.
 
@@ -6,5 +6,5 @@ Digital Visiting Card | React.js, CSS, Vite
 
 • Deployed the application on Vercel and managed source code using Git and GitHub.
 
-GitHub: [Repository Link]
-Live Demo: [Vercel Link]
+## GitHub: [Repository Link]
+## Live Demo: [Vercel Link]
