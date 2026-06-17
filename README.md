@@ -6,5 +6,5 @@
 
 • Deployed the application on Vercel and managed source code using Git and GitHub.
 
-## GitHub: [Repository Link]
-## Live Demo: [Vercel Link]
+## GitHub: https://github.com/PRATEEKRAJBHAR/Digital-Visiting-Card
+## Live Demo: https://digital-visiting-card-jade.vercel.app/
